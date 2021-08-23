@@ -1,7 +1,7 @@
 # Convert Fortify SCA Developer Workbook XML Report to Excel
 
 ## Summary
-This is a beta version tool that could aid to generate Excel report from Fortify SCA Developer Workbook XML report using Python v2.
+This is a beta version tool that could aid to generate Excel report from Fortify SCA Developer Workbook XML report using Python v3.
 
 ## Install required packages
 pip install -r requirements.txt
